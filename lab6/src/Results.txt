@@ -1,0 +1,253 @@
+Closed Hashing Initialization:
+	9.576973 seconds
+Closedhash:
+	Seed: 1
+	Load: 0.2	3.894067 seconds
+	Load: 0.3	6.328723 seconds
+	Load: 0.4	9.171410 seconds
+	Load: 0.5	12.961165 seconds
+	Load: 0.6	18.189428 seconds
+	Load: 0.7	26.250106 seconds
+
+Closedhash:
+	Seed: 2
+	Load: 0.2	3.926689 seconds
+	Load: 0.3	6.435998 seconds
+	Load: 0.4	9.666523 seconds
+	Load: 0.5	13.636080 seconds
+	Load: 0.6	19.150594 seconds
+	Load: 0.7	27.406142 seconds
+
+Closedhash:
+	Seed: 3
+	Load: 0.2	4.044451 seconds
+	Load: 0.3	6.554885 seconds
+	Load: 0.4	9.583448 seconds
+	Load: 0.5	13.789973 seconds
+	Load: 0.6	19.029527 seconds
+	Load: 0.7	27.049143 seconds
+
+Closedhash:
+	Seed: 4
+	Load: 0.2	4.086216 seconds
+	Load: 0.3	6.631454 seconds
+	Load: 0.4	9.539056 seconds
+	Load: 0.5	13.476559 seconds
+	Load: 0.6	18.782219 seconds
+	Load: 0.7	28.045286 seconds
+
+Closedhash:
+	Seed: 5
+	Load: 0.2	4.101370 seconds
+	Load: 0.3	6.632848 seconds
+	Load: 0.4	9.608115 seconds
+	Load: 0.5	13.858302 seconds
+	Load: 0.6	18.942634 seconds
+	Load: 0.7	27.444066 seconds
+
+Cleaning up: 	27.446138 seconds
+
+
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Closed Hashing Initialization:
+	13.996048 seconds
+Closedhash:
+	Seed: 1
+	Load: 0.2	4.431205 seconds
+	Load: 0.3	7.208811 seconds
+	Load: 0.4	10.604580 seconds
+	Load: 0.5	14.808749 seconds
+	Load: 0.6	20.658974 seconds
+	Load: 0.7	29.780708 seconds
+
+Closedhash:
+	Seed: 2
+	Load: 0.2	4.464666 seconds
+	Load: 0.3	7.144699 seconds
+	Load: 0.4	10.466021 seconds
+	Load: 0.5	14.862708 seconds
+	Load: 0.6	21.031894 seconds
+	Load: 0.7	29.889033 seconds
+
+Closedhash:
+	Seed: 3
+	Load: 0.2	4.405792 seconds
+	Load: 0.3	7.138720 seconds
+	Load: 0.4	10.440034 seconds
+	Load: 0.5	15.017774 seconds
+	Load: 0.6	20.735612 seconds
+	Load: 0.7	29.445724 seconds
+
+Closedhash:
+	Seed: 4
+	Load: 0.2	4.444343 seconds
+	Load: 0.3	7.223499 seconds
+	Load: 0.4	10.402891 seconds
+	Load: 0.5	14.891390 seconds
+	Load: 0.6	20.602506 seconds
+	Load: 0.7	30.518496 seconds
+
+Closedhash:
+	Seed: 5
+	Load: 0.2	4.438285 seconds
+	Load: 0.3	7.186467 seconds
+	Load: 0.4	10.421424 seconds
+	Load: 0.5	15.036416 seconds
+	Load: 0.6	20.554681 seconds
+	Load: 0.7	29.838967 seconds
+
+Open Hashing Initialization:
+	9.830476 seconds
+Openhash:
+	Seed: 1
+	Load: 0.2	3.615613 seconds
+	Load: 0.3	5.438528 seconds
+	Load: 0.4	7.257901 seconds
+	Load: 0.5	8.999293 seconds
+	Load: 0.6	10.929312 seconds
+	Load: 0.7	12.714977 seconds
+
+Openhash:
+	Seed: 2
+	Load: 0.2	3.648217 seconds
+	Load: 0.3	5.472409 seconds
+	Load: 0.4	7.280163 seconds
+	Load: 0.5	9.042627 seconds
+	Load: 0.6	10.934941 seconds
+	Load: 0.7	12.804483 seconds
+
+Openhash:
+	Seed: 3
+	Load: 0.2	3.704271 seconds
+	Load: 0.3	5.503901 seconds
+	Load: 0.4	7.272166 seconds
+	Load: 0.5	9.169638 seconds
+	Load: 0.6	10.946794 seconds
+	Load: 0.7	12.669144 seconds
+
+Openhash:
+	Seed: 4
+	Load: 0.2	3.651585 seconds
+	Load: 0.3	5.473992 seconds
+	Load: 0.4	7.210930 seconds
+	Load: 0.5	9.072897 seconds
+	Load: 0.6	10.857243 seconds
+	Load: 0.7	12.765986 seconds
+
+Openhash:
+	Seed: 5
+	Load: 0.2	3.644811 seconds
+	Load: 0.3	5.479095 seconds
+	Load: 0.4	7.267357 seconds
+	Load: 0.5	9.079393 seconds
+	Load: 0.6	10.939798 seconds
+	Load: 0.7	12.733986 seconds
+
+Cleaning up: 	0.002811 seconds
+
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Closed Hashing Initialization:
+	6.875602 seconds
+Closedhash:
+	Seed: 1
+	Load: 0.2	3.368698 seconds
+	Load: 0.3	5.432004 seconds
+	Load: 0.4	7.900566 seconds
+	Load: 0.5	11.128813 seconds
+	Load: 0.6	15.596538 seconds
+	Load: 0.7	22.506648 seconds
+
+Closedhash:
+	Seed: 2
+	Load: 0.2	3.378833 seconds
+	Load: 0.3	5.416974 seconds
+	Load: 0.4	7.900993 seconds
+	Load: 0.5	11.235104 seconds
+	Load: 0.6	15.792743 seconds
+	Load: 0.7	22.625726 seconds
+
+Closedhash:
+	Seed: 3
+	Load: 0.2	3.335721 seconds
+	Load: 0.3	5.403011 seconds
+	Load: 0.4	7.895716 seconds
+	Load: 0.5	11.977963 seconds
+	Load: 0.6	16.148015 seconds
+	Load: 0.7	22.362973 seconds
+
+Closedhash:
+	Seed: 4
+	Load: 0.2	3.375888 seconds
+	Load: 0.3	5.470314 seconds
+	Load: 0.4	7.859980 seconds
+	Load: 0.5	11.119769 seconds
+	Load: 0.6	15.527929 seconds
+	Load: 0.7	23.083011 seconds
+
+Closedhash:
+	Seed: 5
+	Load: 0.2	3.367802 seconds
+	Load: 0.3	5.441402 seconds
+	Load: 0.4	7.881446 seconds
+	Load: 0.5	11.383391 seconds
+	Load: 0.6	15.616825 seconds
+	Load: 0.7	22.539657 seconds
+
+Open Hashing Initialization:
+	6.936413 seconds
+Openhash:
+	Seed: 1
+	Load: 0.2	2.690591 seconds
+	Load: 0.3	4.036472 seconds
+	Load: 0.4	5.416666 seconds
+	Load: 0.5	6.685730 seconds
+	Load: 0.6	8.154792 seconds
+	Load: 0.7	9.440380 seconds
+
+Openhash:
+	Seed: 2
+	Load: 0.2	2.713840 seconds
+	Load: 0.3	4.078545 seconds
+	Load: 0.4	5.413233 seconds
+	Load: 0.5	6.723689 seconds
+	Load: 0.6	8.121506 seconds
+	Load: 0.7	9.501047 seconds
+
+Openhash:
+	Seed: 3
+	Load: 0.2	2.719781 seconds
+	Load: 0.3	4.053504 seconds
+	Load: 0.4	5.423616 seconds
+	Load: 0.5	6.790843 seconds
+	Load: 0.6	8.127203 seconds
+	Load: 0.7	9.402308 seconds
+
+Openhash:
+	Seed: 4
+	Load: 0.2	2.718034 seconds
+	Load: 0.3	4.066059 seconds
+	Load: 0.4	5.368692 seconds
+	Load: 0.5	6.737635 seconds
+	Load: 0.6	8.056934 seconds
+	Load: 0.7	9.524054 seconds
+
+Openhash:
+	Seed: 5
+	Load: 0.2	2.704812 seconds
+	Load: 0.3	4.074418 seconds
+	Load: 0.4	5.414889 seconds
+	Load: 0.5	6.724902 seconds
+	Load: 0.6	8.115596 seconds
+	Load: 0.7	9.432195 seconds
+
+Cleaning up: 	0.001609 seconds
